@@ -5,28 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2657d3dc-8878-46ea-9f09-131f0dad02a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/project/chenanh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/img/bird.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/img/chocolate-islands.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/img/lemon-posset.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/img/logo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/img/otters.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/img/quokka.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/img/roasted-brussel-sprouts.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/img/zucchini-cake.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/lienket.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/linking_to_other_page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/linking_to_other_site.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/spanning_column.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/table_heading.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/tables.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section 4/code1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section 4/code2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section 4/code3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section 4/code4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session 5/code1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session 5/code2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/html5/button_and_hidden_controls.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/html5/checkbox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/html5/drop_down_list_box.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/html5/file_input_box.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/html5/grouping_form_elements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/html5/html5_date_input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/html5/html5_email_input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/html5/html5_form_validation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/html5/html5_placeholder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/html5/html5_search_input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/html5/html5_url_input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/html5/image button.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/html5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/html5/labelling_form_controls.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/html5/password_input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/html5/radio_button.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/html5/submit_button.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/html5/text_input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/html5/textarea.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,17 +72,29 @@
       <recent name="C:\Users\Asus\Documents\GitHub\giang\project\img" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.tables.html">
-    <configuration name="code2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/giang/session 5/code2.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.button_and_hidden_controls.html">
+    <configuration name="button_and_hidden_controls.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/giang/project/html5/button_and_hidden_controls.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="tables.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/giang/project/tables.html" useBuiltInWebServerPort="true">
+    <configuration name="checkbox.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/giang/project/html5/checkbox.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="drop_down_list_box.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/giang/project/html5/drop_down_list_box.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="file_input_box.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/giang/project/html5/file_input_box.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="html5_date_input.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/giang/project/html5/html5_date_input.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.tables.html" />
-        <item itemvalue="JavaScript Debug.code2.html" />
+        <item itemvalue="JavaScript Debug.button_and_hidden_controls.html" />
+        <item itemvalue="JavaScript Debug.checkbox.html" />
+        <item itemvalue="JavaScript Debug.drop_down_list_box.html" />
+        <item itemvalue="JavaScript Debug.file_input_box.html" />
+        <item itemvalue="JavaScript Debug.html5_date_input.html" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +112,7 @@
       <workItem from="1657373440950" duration="607000" />
       <workItem from="1657374846661" duration="669000" />
       <workItem from="1657594803854" duration="3074000" />
-      <workItem from="1657624066421" duration="5986000" />
+      <workItem from="1657624066421" duration="11463000" />
     </task>
     <servers />
   </component>
