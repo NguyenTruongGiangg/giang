@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2657d3dc-8878-46ea-9f09-131f0dad02a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/project/html5/button_and_hidden_controls.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/html5/checkbox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/html5/drop_down_list_box.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/html5/file_input_box.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/html5/grouping_form_elements.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/html5/html5_date_input.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/html5/html5_email_input.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/html5/html5_form_validation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/html5/html5_placeholder.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/html5/html5_search_input.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/html5/html5_url_input.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/html5/image button.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/html5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/html5/labelling_form_controls.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/html5/password_input.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/html5/radio_button.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/html5/submit_button.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/html5/text_input.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/html5/textarea.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/html5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/html5/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +93,7 @@
       <workItem from="1657373440950" duration="607000" />
       <workItem from="1657374846661" duration="669000" />
       <workItem from="1657594803854" duration="3074000" />
-      <workItem from="1657624066421" duration="11463000" />
+      <workItem from="1657624066421" duration="11965000" />
     </task>
     <servers />
   </component>
