@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2657d3dc-8878-46ea-9f09-131f0dad02a5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/project/html5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/html5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session 5/5.1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session 5/5.10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session 5/5.2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session 5/5.3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session 5/5.4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session 5/5.5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session 5/5.6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session 5/5.7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session 5/5.8.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session 5/5.9.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session 5/code1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session 5/code2.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +27,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -40,6 +53,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/Asus/Documents/GitHub/giang/project",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -51,6 +65,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Asus\Documents\GitHub\giang\project" />
       <recent name="C:\Users\Asus\Documents\GitHub\giang\project\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\Documents\GitHub\giang\session 5" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.button_and_hidden_controls.html">
@@ -94,6 +111,7 @@
       <workItem from="1657374846661" duration="669000" />
       <workItem from="1657594803854" duration="3074000" />
       <workItem from="1657624066421" duration="11965000" />
+      <workItem from="1657640598880" duration="2404000" />
     </task>
     <servers />
   </component>
