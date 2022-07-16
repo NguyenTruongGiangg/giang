@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2657d3dc-8878-46ea-9f09-131f0dad02a5" name="Changes" comment="" />
+    <list default="true" id="2657d3dc-8878-46ea-9f09-131f0dad02a5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/session 9/Analog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session 9/HSLA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session 9/background_color.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session 9/first-letter-and-line.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session 9/font-face.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session 9/font_family.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session 9/img/clavinet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session 9/img/dots.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session 9/img/keys.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session 9/img/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session 9/img/rhodes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session 9/img/wurlitzer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session 9/letter-and-word-spacing.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session 9/line-height.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session 9/text-align.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session 9/text-decoration.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session 9/text-transform.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +32,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -53,6 +72,7 @@
       <recent name="C:\Users\Asus\Documents\GitHub\giang\project\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\Documents\GitHub\giang\session 9\img" />
       <recent name="C:\Users\Asus\Documents\GitHub\giang\session 5" />
     </key>
   </component>
@@ -98,6 +118,7 @@
       <workItem from="1657594803854" duration="3074000" />
       <workItem from="1657624066421" duration="11965000" />
       <workItem from="1657640598880" duration="2404000" />
+      <workItem from="1657971833000" duration="7063000" />
     </task>
     <servers />
   </component>
