@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-family: Arial, Georgia, sans-serif;
+}
+.heading {
+    margin-top: 32px;
+}
+.text-heading {
+    text-align: center;
+    width: 100%;
+}
+.main {
+    width: 800px;
+    padding: 64px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+body {
+    background-color: #51afd7;
+}
+h1 {
+    background-color: #51afd7;
+}
+address {
+    padding: 64px;
+    width: 100%;
+}
